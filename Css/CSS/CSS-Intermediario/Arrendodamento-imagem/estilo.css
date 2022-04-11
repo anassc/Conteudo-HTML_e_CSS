@@ -1,0 +1,36 @@
+/*----ARRENDODAMENTO COM IMAGEM---
+.caixa{
+    width: 400px;
+    background: #ddd url(/arrendodamento-imagem/Imagens/topo.png) no-repeat top;
+}
+
+.caixa p{
+  background: url(/arrendodamento-imagem/Imagens/baixo.png) no-repeat bottom;
+  padding:0px 20px 20px 20px;
+}
+
+.caixa h3{
+    padding:10px 20px 0 20px;
+}
+/*
+
+/*----Outro estilo de caixa- com bordas nas laterais.----*/
+
+.caixa{
+    width: 400px;
+    background: #ddd url(/arrendodamento-imagem/Imagens/fundo-arredondamento.png) repeat-y left;
+}
+
+ .caixa h3{
+    background: url(/arrendodamento-imagem/Imagens/topo2.png) no-repeat left top;
+    padding:10px 20px 20px 20px;
+}
+
+.caixa p{
+    padding: 0px 20px;
+}
+
+.caixa .ultimo{
+    background: url(/arrendodamento-imagem/Imagens/baixo2.png) no-repeat left bottom;
+    padding-bottom: 20px;
+}

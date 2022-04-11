@@ -1,0 +1,47 @@
+body{
+	font-family: "Trebuchet MS",Helvetica, sans-serif;
+}
+
+#container{
+	width: 720px;
+	padding: 0;
+	margin: 0 auto;
+	background: white;
+
+}
+
+ #marca{
+	line-height: 100px;
+	height: 100px;
+	text-align: center;
+	background: gray;
+	
+}
+
+#conteudo{
+	border: 1px solid red;
+	width: 520px;
+	float: right;
+}
+
+#navegacao{
+	border: 1px solid red;
+
+	width: 180px;
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: greenyellow;
+
+}
+
+#rodape{
+	clear: both;
+	background: green;
+	padding: 5px;
+}
+
+ #navegacao ul{
+ 	list-style-type: none;
+ }
+	

@@ -1,0 +1,24 @@
+ul{
+	margin:0;
+	padding:0;
+	list-style-type: none;
+	
+}
+
+ul a {
+	border: 1px solid red;
+	width:200px; /* width e height nesse caso é referente a imagem de bacground*/
+	height: 40px;
+	display: block;
+	text-decoration: none;
+	color: black;
+	text-indent: 40px; /*identação*/
+	line-height: 40px;/*define a altura da linha do texto,conversa com o tamanho da letra (font-size)*/
+	background:url(Imagens/menu.png);
+}
+
+ul a:hover{
+	color: white;
+	background-position: right bottom;
+}
+
